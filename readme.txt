@@ -1,7 +1,4 @@
-- SQL scripts/
-- get data for bitcoin sender address analysis: used for clustering and data exploration
-
-Understanding People’s Behaviour in Bitcoin through Unsupervised Learning Approaches
+# Understanding People’s Behaviour in Bitcoin through Unsupervised Learning Approaches
 
 By: Malik Sogukoglu
 
@@ -11,7 +8,7 @@ By: Malik Sogukoglu
     |   readme.txt
     |
     +---00_Data Gathering
-    |       get data for bitcoin sender address analysis.sql
+    |       get data for bitcoin sender address analysis.sql - (used for clustering and data exploration)
     |       get data for ethereum sender address analysis.sql
     |
     +---01_Data Exploration
