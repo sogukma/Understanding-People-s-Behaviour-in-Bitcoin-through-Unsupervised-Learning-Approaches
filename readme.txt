@@ -19,7 +19,7 @@ By: Malik Sogukoglu
     +---02_Bitcoin Analysis
     |       +---Sender address analysis (refers to chapter "3.4.2. Sender Address Analysis")
     |	    |	    bitcoin sender address analysis in bull phases 2015 - 2021.ipynb
-    |       |       bitcoin sender address analysis in bear phases 2015 - 2021.ipynb
+    |       |       bitcoin sender address analysis in bear phases 2015 - 2021.ipynb (Note: In addition to the regular plots as in the other notebooks, this notebook also contains a PCA plot)
     |       |
     |       +---Transaction analysis (refers to chapter "3.4.1. Transaction Analysis")
     |       |       bitcoin transaction analysis bear phase 2013 - 2013.ipynb
