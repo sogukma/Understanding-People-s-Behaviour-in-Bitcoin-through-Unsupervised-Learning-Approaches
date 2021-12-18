@@ -1,8 +1,9 @@
-# Understanding People’s Behaviour in Bitcoin through Unsupervised Learning Approaches
-
+Understanding People’s Behaviour in Bitcoin through Unsupervised Learning Approaches
+------------------------------------------------------------------------------------
 By: Malik Sogukoglu
+-------------------
 
-
+The directory structure of this repository is explained below.
 
 \---Understanding People’s Behaviour in Bitcoin through Unsupervised Learning Approaches
     |   readme.txt
